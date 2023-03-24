@@ -7,7 +7,13 @@
 
 When I was 7 years old, I woke up early in the morning.
 <br/>I wanted a different kind of breakfast,
+<<<<<<< HEAD
 <br/>So I took some soup from the fridge,it was cold freezing!
+=======
+<br/>So I took some soup that was cold freezing!
+<br/>So I took some soup from the fridge,it was cold freezing!
+
+>>>>>>> 4b0ebd047ae0d80cd569c3dd77cf11db198a24c0
 ------------------------------------------------------------------------------------
 <!--Steve -->
 
