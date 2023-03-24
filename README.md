@@ -1,13 +1,16 @@
 # __There was a _Frog_ in my _Soup___
 
 <br/> ![FrogSoup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcGtiSfPV0qQ_rnphyalfBZZAgnsHGHUcXTGPoRAvi&s)
-
+====
+------------------------------------------------------------------------------------
 <!-- Abel -->
+
 When I was 7 years old, I woke up early in the morning.
 <br/>I wanted a different kind of breakfast,
 <br/>So I took some soup from the fridge,it was cold freezing!
 ------------------------------------------------------------------------------------
 <!--Steve -->
+
 <br/>As I sat down to eat, I realized the soup was too cold for my liking.
 <br/>But being a curious kid, I decided to experiment and heated it up in the microwave.
 <br/>To my surprise, the soup tasted even better warm and became my new favorite breakfast.
@@ -20,7 +23,6 @@ When I was 7 years old, I woke up early in the morning.
 </br>To my _horror_, I saw a <span style="color:green">__small frog__</span> in my soup, and from that day on, I never looked at soup the same way again.
 
 -------------------------------------------------------------------------------------
-
 <!--Julien -->
 
 </br>I soon realized that my fear of finding something unexpected in my food extended beyond just soup.
