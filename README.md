@@ -19,3 +19,9 @@ When I was 7 years old, I woke up early in the morning.
 
 -------------------------------------------------------------------------------------
 
+<!--Julien -->
+
+</br>I soon realized that my fear of finding something unexpected in my food extended beyond just soup.
+</br>I became more cautious and inspected my meals thoroughly before taking a bite.
+</br>Although the incident with the frog in my soup was a traumatic experience, it taught me to be more mindful and aware of what I eat.
+</br>Now, I make sure to always check my food before eating it, and I haven't had any unexpected surprises since.
