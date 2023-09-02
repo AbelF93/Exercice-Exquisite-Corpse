@@ -1,3 +1,70 @@
+# Exquisite-Corpse Collaboration Project
+
+Welcome to our collaborative web development learning project! This project is part of our journey to improve our web development skills and learn effective collaboration using Git and GitHub. In this exercise, we've created an exquisite-corpse story where each of us contributes a part to the story and passes it on to the next person. Our team consists of:
+
+- Steve Grards
+- Thomas Moerman
+- Julien Arnould
+- [Your Name]
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Collaboration Workflow](#collaboration-workflow)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+
+## Project Overview
+
+The goal of this project is to:
+
+- Learn how to collaborate effectively using Git and GitHub.
+- Practice branching, committing, and merging code changes.
+- Create a fun and creative collaborative story.
+
+## Project Structure
+
+The project repository is organized as follows:
+
+- `main` branch: The main branch will contain the final version of our exquisite-corpse story.
+- Individual branches: Each team member will have their own branch to contribute to the story.
+- Markdown files: Each contribution to the story should be written in a separate Markdown file.
+
+## Collaboration Workflow
+
+Our workflow for this project will follow these steps:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone <repository-url>
+Create a new branch for your contribution:
+
+bash
+Copy code
+git checkout -b feature/your-name-story-part
+Write your part of the story in a Markdown file within your branch.
+
+Commit your changes with a descriptive commit message:
+
+bash
+Copy code
+git commit -m "Add your-name's story part"
+Push your branch to the remote repository:
+
+bash
+Copy code
+git push origin feature/your-name-story-part
+Create a pull request (PR) to merge your branch into the main branch.
+
+Review and discuss the PR with your team members.
+
+Once the PR is approved, merge it into the main branch.
+
+Continue the process by starting from step 2 with the next team member.
+
+Now you can see below our "Excquisite-Corpse" exercice. Thank you for reading.
+------------------------------------------------------------------------------------
+
 # __There was a _Frog_ in my _Soup___
 
 <br/> ![FrogSoup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcGtiSfPV0qQ_rnphyalfBZZAgnsHGHUcXTGPoRAvi&s)
