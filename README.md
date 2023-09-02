@@ -5,7 +5,7 @@ Welcome to our collaborative web development learning project! This project is p
 - Steve Grards
 - Thomas Moerman
 - Julien Arnould
-- [Your Name]
+- Fortunati Abel
 
 ## Table of Contents
 - [Project Overview](#project-overview)
